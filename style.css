@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(85, 88, 12);
+}
+
+.Img1 {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    border-radius: 10%;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 85, 10);
+    color: rgb(7, 179, 127);
+}
+
+p {
+    font-size: 22px;
+}
+
+table {
+    font-size: 20px;
+}
+li {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th {
+    font-size: 30px;
+}
